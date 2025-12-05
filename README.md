@@ -19,6 +19,8 @@ Create a `.env` file in the project root and add your OpenAI API key (you can co
 ```
 cp .env.sample .env
 ```
+Your OPENAI API KEY can be found here: https://platform.openai.com/api-keys
+
 
 ## Running the Script
 
