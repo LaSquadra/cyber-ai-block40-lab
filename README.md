@@ -17,7 +17,7 @@ uv sync
 Create a `.env` file in the project root and add your OpenAI API key (you can copy the .env.sample file):
 
 ```
-OPENAI_API_KEY=your_api_key_here
+cp .env.sample .env
 ```
 
 ## Running the Script
