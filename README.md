@@ -6,9 +6,10 @@
 Visit [Astral's UV](https://docs.astral.sh/uv/getting-started/installation/) and follow the installation instructions for your OS.
 
 ### 2. Sync Dependencies
-Run the following command to install project dependencies:
+Change into the created directory and run the following command to install project dependencies:
 
 ```
+cd cyber-ai-block40-lab
 uv sync
 ```
 
